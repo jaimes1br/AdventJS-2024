@@ -4,9 +4,9 @@
 
 Advent.js, es un reto pensado en mejor tu lógica de programación, el cual consiste en **25 días, 25 retos** de programación con ```JavaScript``` o ```TypeScript``` o ```Python``` . En este repositorio solo se resolveran usando javascript.
 
-<!-- <p align="center"> 
-  <img  height="300" src="https://github.com/jaimes1br/AdventJS-2023/assets/91866094/8576cdc2-1997-460e-bfa0-018a960a06ea"/>
-</p> -->
+<p align="center"> 
+  <img  height="200" src="https://github.com/user-attachments/assets/acb2747a-6c12-4f90-b975-0fcce495fe02"/>
+</p>
 
 <h3 align="center">🧑‍🚀 25 días de retos con JavaScript • <a href="https://adventjs.dev">adventJS</a> 🚀</h3>
 
