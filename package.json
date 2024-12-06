@@ -4,7 +4,8 @@
   "description": "Soluciones a los retos del AdvnetJS 2024",
   "main": "index.js",
   "scripts": {
-    "test": "jest --verbose"
+    "test": "jest --verbose",
+    "test:1": "jest -i retos/01_primer_regalo"
   },
   "keywords": [
     "javascript",

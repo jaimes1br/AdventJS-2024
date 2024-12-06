@@ -5,7 +5,11 @@
 Advent.js, es un reto pensado en mejor tu lógica de programación, el cual consiste en **25 días, 25 retos** de programación con ```JavaScript``` o ```TypeScript``` o ```Python``` . En este repositorio solo se resolveran usando javascript.
 
 <p align="center"> 
-  <img  height="200" src="https://github.com/user-attachments/assets/acb2747a-6c12-4f90-b975-0fcce495fe02"/>
+  <img  
+    height="200"
+    src="https://github.com/user-attachments/assets/acb2747a-6c12-4f90-b975-0fcce495fe02"
+    alt="Logo Adventjs"
+  />
 </p>
 
 <h3 align="center">🧑‍🚀 25 días de retos con JavaScript • <a href="https://adventjs.dev">adventJS</a> 🚀</h3>
@@ -14,7 +18,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 
 |  #  |                  Reto                       |   Disponible    |                Solución                  |  Puntos  |  Nivel  |
 | :-: | :------------------------------------------------------------------: | :------------:  | :----------------------------------------: | :---------: | :---------: |
-| 01  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
+| 01  |   🎁 ¡Primer regalo repartido!    |       ✅        | [Mirar](retos/01_primer_regalo/README.md) |   5 ⭐   |    🟢    |  
 | 02  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 03  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 04  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
