@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --verbose",
-    "test:1": "jest -i retos/01_primer_regalo"
+    "test:1": "jest -i retos/01_primer_regalo",
+    "test:2": "jest -i retos/02_enmarcando_nombres"
   },
   "keywords": [
     "javascript",
