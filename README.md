@@ -22,7 +22,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 02  |       🖼 Enmarcando nombres       |       ✅        | [Mirar](retos/02_enmarcando_nombres/README.md) |   5 ⭐   |    🟢    |  
 | 03  |   🏗 Organizando el inventario    |       ✅        | [Mirar](retos/03_orgianizando_inventario/README.md) |   5 ⭐   |    🟢    |  
 | 04  | 🎄 Decorando el árbol de Navidad  |       ✅        | [Mirar](retos/04_decorando_arbol/README.md) |   5 ⭐   |    🟠    |  
-| 05  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
+| 05  |       👞 Emparejando botas        |       ✅        | [Mirar](retos/05_emparejando_botas/README.md) |   5 ⭐   |    🟢    |  
 | 06  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 07  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 08  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
