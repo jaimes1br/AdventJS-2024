@@ -42,7 +42,7 @@ createFrame(['a', 'bb', 'ccc'])
 createFrame(['a', 'bb', 'ccc', 'dddd'])
 ```
 
-## Solución propuesta
+## Solución propuesta #1
 
 ```javascript
 function createFrame(names) {
@@ -62,6 +62,29 @@ function createFrame(names) {
 }
 ```
 
+## Solución propuesta #2
+
+```javascript
+function createFrame(names) {
+    
+    const max = names.reduce((a, b) => 
+        a.length > b.length ? a : b, '').length;
+
+    const top = '*'.repeat(max + 4);    
+    let frame = `${top}\n`;
+
+    for (const name of names) {
+        const spaces = max - name.length;
+        const tmp = `* ${name + ' '.repeat(spaces)} *` + '\n';
+        frame += tmp;
+    }
+
+    return frame + top;
+}
+```
+
 ---
 
-### Resultado: ⭐ ⭐ ⭐ ⭐
+### Resultado v1: ⭐ ⭐ ⭐ ⭐
+
+### Resultado v2: ⭐ ⭐ ⭐ ⭐ ⭐

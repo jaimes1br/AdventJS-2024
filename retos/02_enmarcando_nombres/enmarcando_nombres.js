@@ -1,23 +1,25 @@
 // console.log(createFrame(['midu', 'madeval', 'educalvolpz']));
-
+// console.log(createFrame(["a","bb","ccc"]));
+console.log(createFrame(["midu","madeval","educalvolpz","midu"]));
 /**
  * @param {string[]} names - Array of names to frame
  * @returns {string} The framed names
  */
 function createFrame(names) {
     
-    let max = 0;
-    names.forEach(n => {
-        if (n.length > max) max = n.length
-    });
+    const max = names.reduce((a, b) => 
+        a.length > b.length ? a : b, '').length;
 
-    const top = '*'.repeat(max + 4);
-    
-    const frame = names.map(n => {
-        return `* ${n + ' '.repeat(max - (n.length))} *`
-    });
+    const top = '*'.repeat(max + 4);    
+    let frame = `${top}\n`;
 
-    return top + '\n' + frame.join('\n') + '\n' + top
+    for (const name of names) {
+        const spaces = max - name.length;
+        const tmp = `* ${name + ' '.repeat(spaces)} *` + '\n';
+        frame += tmp;
+    }
+
+    return frame + top;
 }
 
 module.exports = createFrame
