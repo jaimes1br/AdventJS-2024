@@ -10,16 +10,6 @@ type tempPair = {
     };
 };
 
-const shoes: Shoe[] = [
-    { type: 'I', size: 38 },
-    { type: 'R', size: 38 },
-    { type: 'R', size: 42 },
-    { type: 'I', size: 41 },
-    { type: 'I', size: 42 }
-  ]
-  
-console.log(organizeShoes(shoes)); // [38, 42]
-
 function organizeShoes(shoes: Shoe[]): number[] {
 
     const result: number[] = [];

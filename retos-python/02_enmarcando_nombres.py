@@ -1,4 +1,3 @@
-
 def create_frame(names):
     max_length = max(names, key=len).length
 
