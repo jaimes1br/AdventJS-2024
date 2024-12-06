@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest --verbose",
     "test:1": "jest -i retos/01_primer_regalo",
-    "test:2": "jest -i retos/02_enmarcando_nombres"
+    "test:2": "jest -i retos/02_enmarcando_nombres",
+    "test:3": "jest -i retos/03_orgianizando_inventario"
   },
   "keywords": [
     "javascript",
