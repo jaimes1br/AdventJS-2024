@@ -2,7 +2,7 @@
 
 **¡Hola!** Este es mi repositorio inspirado en el reto Advent.js, el cual contiene **mis soluciones** creadas para cumplir con este reto. Los retos fueron propuestos por [@MiduDev](https://github.com/midudev "@MiduDev") en https://adventjs.dev/es.
 
-Advent.js, es un reto pensado en mejor tu lógica de programación, el cual consiste en **25 días, 25 retos** de programación con ```JavaScript``` o ```TypeScript``` o ```Python``` . En este repositorio solo se resolveran usando javascript.
+Advent.js, es un reto pensado en mejor tu lógica de programación, el cual consiste en **25 días, 25 retos** de programación con ```JavaScript``` o ```TypeScript``` o ```Python``` . En este repositorio se tienen las versiones de los tres lenguajes.
 
 <p align="center"> 
   <img  
@@ -25,7 +25,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 05  |       👞 Emparejando botas        |       ✅        | [Mirar](retos/05_emparejando_botas/README.md) |   5 ⭐   |    🟢    |  
 | 06  |   📦 ¿Regalo dentro de la caja?   |       ✅        | [Mirar](retos/06_regalos_caja/README.md) |   5 ⭐   |    🟢    |  
 | 07  |      👹 El ataque del Grinch      |       ✅        | [Mirar](retos/07_ataque_grinch/README.md) |   5 ⭐   |    🟠    |  
-| 08  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
+| 08  |    🦌 La carrera de los renos     |       ✅        | [Mirar](retos/08_carrera_renos/README.md) |   5 ⭐   |    🟢    |  
 | 09  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 10  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 11  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
