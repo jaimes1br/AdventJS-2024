@@ -1,3 +1,4 @@
+// Resultado 5 ⭐
 function createFrame(names: string[]): string {
     const max: number = names.reduce((a, b) => 
         a.length > b.length ? a : b, '').length;

@@ -1,3 +1,4 @@
+// Resultado 5 ⭐
 function fixPackages(packages: string): string {
     let tmpPack: string = packages;
 

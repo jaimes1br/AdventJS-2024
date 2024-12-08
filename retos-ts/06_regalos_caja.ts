@@ -1,3 +1,4 @@
+// Resultado 5 ⭐
 function inBox(box: string[]): boolean {
     for (let i = 1; i < box.length - 1; i++) {
         const line: string = box[i]

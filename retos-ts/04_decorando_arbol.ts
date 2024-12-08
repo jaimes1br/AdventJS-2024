@@ -1,3 +1,4 @@
+// Resultado 5 ⭐
 function createXmasTree(height: number, ornament: string): string {
     let tree: string = '';
     for (let i = 0; i < height; i++) {

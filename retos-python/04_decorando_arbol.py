@@ -1,3 +1,4 @@
+# No se imprime la base en el navegador
 def create_xmas_tree(height, ornament):
     HASHTAG = '#' 
     tree = []

@@ -1,3 +1,4 @@
+// Resultado 3 ⭐
 interface InventoryItem {
     name: string;
     quantity: number;

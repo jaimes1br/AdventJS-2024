@@ -1,3 +1,4 @@
+# Resultado 5 ⭐
 def in_box(box):
     for i in range(1, len(box) - 1):
         line = box[i]

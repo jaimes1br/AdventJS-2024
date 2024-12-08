@@ -1,3 +1,4 @@
+# Resultado 5 ⭐
 def organize_shoes(shoes):
     result = []
     tmp = {}

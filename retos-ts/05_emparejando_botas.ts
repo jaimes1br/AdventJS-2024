@@ -1,3 +1,4 @@
+// Resultado 5 ⭐
 type Shoe = {
     type: 'I' | 'R'
     size: number
