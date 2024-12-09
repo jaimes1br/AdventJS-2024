@@ -12,7 +12,8 @@
     "test:5": "jest -i retos/05_emparejando_botas",
     "test:6": "jest -i retos/06_regalos_caja",
     "test:7": "jest -i retos/07_ataque_grinch",
-    "test:8": "jest -i retos/08_carrera_renos"
+    "test:8": "jest -i retos/08_carrera_renos",
+    "test:9": "jest -i retos/09_tren_magico"
   },
   "keywords": [
     "javascript",

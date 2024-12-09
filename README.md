@@ -26,7 +26,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 06  |   📦 ¿Regalo dentro de la caja?   |       ✅        | [Mirar](retos/06_regalos_caja/README.md) |   5 ⭐   |    🟢    |  
 | 07  |      👹 El ataque del Grinch      |       ✅        | [Mirar](retos/07_ataque_grinch/README.md) |   5 ⭐   |    🟠    |  
 | 08  |    🦌 La carrera de los renos     |       ✅        | [Mirar](retos/08_carrera_renos/README.md) |   5 ⭐   |    🟢    |  
-| 09  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
+| 09  |         🚂 El tren mágico         |       ✅        | [Mirar](retos/09_tren_magico/README.md) |   5 ⭐   |    🟠    |  
 | 10  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 11  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 12  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
