@@ -16,7 +16,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 
 ## 🕹️ Retos
 
-|  #  |                  Reto                       |   Disponible    |                Solución                  |  Puntos  |  Nivel  |
+|  #  |                  Reto                       |   Disponible    |                Solución                  |  Resultado  |  Nivel  |
 | :-: | :------------------------------------------------------------------: | :------------:  | :----------------------------------------: | :---------: | :---------: |
 | 01  |   🎁 ¡Primer regalo repartido!    |       ✅        | [Mirar](retos/01_primer_regalo/README.md) |   5 ⭐   |    🟢    |  
 | 02  |       🖼 Enmarcando nombres       |       ✅        | [Mirar](retos/02_enmarcando_nombres/README.md) |   5 ⭐   |    🟢    |  
@@ -28,7 +28,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 08  |    🦌 La carrera de los renos     |       ✅        | [Mirar](retos/08_carrera_renos/README.md) |   5 ⭐   |    🟢    |  
 | 09  |         🚂 El tren mágico         |       ✅        | [Mirar](retos/09_tren_magico/README.md) |   5 ⭐   |    🟠    |  
 | 10  |      👩‍💻 El ensamblador élfico     |       ✅        | [Mirar](retos/10_ensamblador/README.md) |   5 ⭐   |    🟠    |  
-| 11  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
+| 11  |🏴‍☠️ Nombres de archivos codificados |       ✅        | [Mirar](retos/11_archivos_codificados/README.md) |   5 ⭐   |    🟢    |  
 | 12  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 13  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 14  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
@@ -43,6 +43,8 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 23  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 24  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 25  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
+
+*Esta tabla muestra los resultado evaluados para `javascript`*
 
 ### 🧪 Tests
 
