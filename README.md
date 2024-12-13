@@ -30,7 +30,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 10  |      👩‍💻 El ensamblador élfico     |       ✅        | [Mirar](retos/10_ensamblador/README.md) |   5 ⭐   |    🟠    |  
 | 11  |🏴‍☠️ Nombres de archivos codificados |       ✅        | [Mirar](retos/11_archivos_codificados/README.md) |   5 ⭐   |    🟢    |  
 | 12  |    💵 ¿Cuánto cuesta el árbol?    |       ✅        | [Mirar](retos/12_cuanto_cuesta/README.md) |   5 ⭐   |    🟢    |  
-| 13  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
+| 13  |    🤖 ¿El robot está de vuelta?   |       ✅        | [Mirar](retos/13_robot/README.md) |   5 ⭐   |    🔴    |  
 | 14  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 15  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 16  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
