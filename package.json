@@ -17,7 +17,8 @@
     "test:10": "jest -i retos/10_ensamblador",
     "test:11": "jest -i retos/11_archivos_codificados",
     "test:12": "jest -i retos/12_cuanto_cuesta",
-    "test:13": "jest -i retos/13_robot"
+    "test:13": "jest -i retos/13_robot",
+    "test:14": "jest -i retos/14_acomodando_renos"
   },
   "keywords": [
     "javascript",
