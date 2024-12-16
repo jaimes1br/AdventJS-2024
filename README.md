@@ -32,7 +32,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 12  |    💵 ¿Cuánto cuesta el árbol?    |       ✅        | [Mirar](retos/12_cuanto_cuesta/README.md) |   5 ⭐   |    🟢    |  
 | 13  |    🤖 ¿El robot está de vuelta?   |       ✅        | [Mirar](retos/13_robot/README.md) |   5 ⭐   |    🔴    |  
 | 14  |      🦌 Acomodando los renos      |       ✅        | [Mirar](retos/14_acomodando_renos/README.md) |   5 ⭐   |    🟢    |  
-| 15  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
+| 15  |        ✏ Dibujando tablas        |       ✅        | [Mirar](retos/15_dibujando_tablas/README.md) |   5 ⭐   |    🟢    |  
 | 16  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 17  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 18  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
