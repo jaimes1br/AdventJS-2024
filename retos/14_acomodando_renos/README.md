@@ -1,4 +1,4 @@
-# Reto #12: 🦌 Acomodando los renos
+# Reto #14: 🦌 Acomodando los renos
 
 ## Fácil 🟢
 

@@ -1,4 +1,4 @@
-# Reto #14: ✏ Dibujando tablas  
+# Reto #15: ✏ Dibujando tablas  
 
 ## Fácil 🟢
 

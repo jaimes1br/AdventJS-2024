@@ -1,4 +1,4 @@
-# Reto #2: 🦌 La carrera de los renos
+# Reto #8: 🦌 La carrera de los renos
 
 ## Fácil 🟢
 
