@@ -21,7 +21,8 @@
     "test:14": "jest -i retos/14_acomodando_renos",
     "test:15": "jest -i retos/15_dibujando_tablas",
     "test:16": "jest -i retos/16_limpiando_nieve",
-    "test:17": "jest -i retos/17_busca_bombas"
+    "test:17": "jest -i retos/17_busca_bombas",
+    "test:18": "jest -i retos/18_agenda_magica"
   },
   "keywords": [
     "javascript",
