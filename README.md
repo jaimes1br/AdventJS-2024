@@ -36,7 +36,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 16  |  ❄ Limpiando la nieve del camino  |       ✅        | [Mirar](retos/16_limpiando_nieve/README.md) |   5 ⭐   |    🟢    |  
 | 17  | 💣 Buscando las bombas del Grinch |       ✅        | [Mirar](retos/17_busca_bombas/README.md) |   5 ⭐   |    🟠    |  
 | 18  |   📇 La agenda mágica de Santa    |       ✅        | [Mirar](retos/18_agenda_magica/README.md) |   5 ⭐   |    🔴    |  
-| 19  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
+| 19  |📦 Apila cajas mágicas para repa...|       ✅        | [Mirar](retos/19_apila_cajas/README.md) |   5 ⭐   |    🔴    |  
 | 20  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 21  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 22  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
