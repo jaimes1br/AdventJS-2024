@@ -1,4 +1,4 @@
-# Reto #19: 🎁 Encuentra los regalos faltantes y duplicados
+# Reto #20: 🎁 Encuentra los regalos faltantes y duplicados
 
 ## Fácil 🟢
 
