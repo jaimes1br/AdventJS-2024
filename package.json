@@ -24,7 +24,8 @@
     "test:17": "jest -i retos/17_busca_bombas",
     "test:18": "jest -i retos/18_agenda_magica",
     "test:19": "jest -i retos/19_apila_cajas",
-    "test:20": "jest -i retos/20_faltantes_y_duplicados"
+    "test:20": "jest -i retos/20_faltantes_y_duplicados",
+    "test:21": "jest -i retos/21_calcula_altura"
   },
   "keywords": [
     "javascript",
