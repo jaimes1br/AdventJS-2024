@@ -40,7 +40,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 20  |🎁 Encuentra los regalos faltant... |       ✅        | [Mirar](retos/20_faltantes_y_duplicados/README.md) |   5 ⭐   |    🟢    |  
 | 21  |🎄 Calcula la altura del arból d...|       ✅        | [Mirar](retos/21_calcula_altura/README.md) |   5 ⭐   |    🟢    |  
 | 22  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
-| 23  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
+| 23  | 🔢 Encuentra los números perdidos |       ✅        | [Mirar](retos/23_numeros_perdidos/README.md) |   5 ⭐   |    🟢    |  
 | 24  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 25  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 
