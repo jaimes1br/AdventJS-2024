@@ -26,6 +26,7 @@
     "test:19": "jest -i retos/19_apila_cajas",
     "test:20": "jest -i retos/20_faltantes_y_duplicados",
     "test:21": "jest -i retos/21_calcula_altura",
+    "test:22": "jest -i retos/22_combinaciones",
     "test:23": "jest -i retos/23_numeros_perdidos",
     "test:24": "jest -i retos/24_espejos_magicos",
     "test:25": "jest -i retos/25_lenguaje_magico"
