@@ -42,7 +42,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 22  |               ...                 |       ❌        | [Mirar](retos/) |         |    ⌚    |  
 | 23  | 🔢 Encuentra los números perdidos |       ✅        | [Mirar](retos/23_numeros_perdidos/README.md) |   5 ⭐   |    🟢    |  
 | 24  |🪞 Verfiica si los árboles son es...|       ✅        | [Mirar](retos/24_espejos_magicos/README.md) |   5 ⭐   |    🟠    |
-| 25  |                                   |       ❌        | [Mirar](retos/) |         |    ⌚    |  
+| 25  |   🪄 Ejecuta el lenguaje mágico   |       ✅        | [Mirar](retos/25_lenguaje_magico/README.md) |   5 ⭐   |    🟠    |
 
 *Esta tabla muestra los resultado evaluados para `javascript`*
 
