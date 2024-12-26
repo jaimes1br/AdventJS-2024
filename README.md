@@ -66,6 +66,14 @@ npm run test:n  # Para correr una prueba ind. "n" es el número del reto.
 npm run test:1  # Ejectuta el test del reto 1
 ```
 
+### Resultado
+
+Los últimos ejercicios (22 y 25) los realicé el 25 de diciembre, para el envío de mi solución, como resultado al final de este reto tenemos:
+
+<p align="center"> 
+    <img src="https://github.com/user-attachments/assets/144db4b0-fcaf-4a14-b903-5091c6775db2"/>
+</p>
+
 El cuarto año que completo este reto, me siento contento de realizarlo, esperamos el siguiente con ansias.
 Los repositorios de los años anteriores disponibles en:
 
